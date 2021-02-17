@@ -25,6 +25,7 @@ conda init
 
 #git clone the dotfiles repo and vim vundle and tabnine
 git clone https://github.com/alatimer/dotfiles.git ~/Code/dotfiles/
+#TODO: vundle and t9 not working...
 #git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 #Tell zsh to look in dotfiles repo for configs
