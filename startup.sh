@@ -24,8 +24,10 @@ brew doctor
 
 #Install some packages...
 brew install git
+brew install docker
 
 #git clone the vim vundle and tabnine
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 #Install anaconda
 brew install --cask miniconda
