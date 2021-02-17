@@ -9,8 +9,7 @@ bindkey "\e[A" history-beginning-search-backward
 bindkey "\e[B" history-beginning-search-forward
 
 ##### PROMPT
-PROMPT='%F{blue}%1~%f %# '
-
+PROMPT='%B%F{magenta}%4~%f %# '
 
 ##### HISTORY
 HISTFILE=~/.zsh_history
