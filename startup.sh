@@ -26,3 +26,6 @@ brew doctor
 brew install git
 
 #git clone the vim vundle and tabnine
+
+#Install anaconda
+brew install --cask miniconda
