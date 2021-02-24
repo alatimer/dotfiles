@@ -1,7 +1,7 @@
 ZDOTDIR=$HOME/Code/dotfiles/
 
 #source /Users/allegralatimer/.bash_profile
-export VIMINIT="source ./vim/.vimrc"
+export VIMINIT="source $ZDOTDIR/vim/.vimrc"
 
 ##### BINDINGS
 bindkey "^R" history-incremental-search-backward
