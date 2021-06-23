@@ -18,6 +18,7 @@ endif
 
 " Use :help 'option' to see the documentation for the given option.
 
+set undofile
 set number
 set autoindent
 set backspace=indent,eol,start
